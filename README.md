@@ -1,2 +1,2 @@
-# SpringBoot-order-service-Backend
+# Springboot-Order-Service-Backend
 Order Service Application with MySQL database
